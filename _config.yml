@@ -4,8 +4,8 @@ header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
 copyright_name: cron&#9398;rchy.com
 description: "Hack It.  Script It.  Cron it.  Bank it."
-baseurl: "http://cronarchy.com"
-url: "/"
+baseurl: "/"
+url: "http://cronarchy.com"
 twitter_username: SBootstrap
 github_username:  davidtmiller
 facebook_username:  IronSummitMedia
