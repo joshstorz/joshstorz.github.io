@@ -12,7 +12,7 @@ facebook_username:  IronSummitMedia
 email_username:  your-email@yourdomain.com
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 highlighter: rouge
 permalink: pretty
 paginate: 5
